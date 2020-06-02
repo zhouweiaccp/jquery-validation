@@ -73,6 +73,11 @@ $("#myForm").validate({
 });
 ```
 
+
+
+
+### demo
+-[](/demo/login/a1.html) 密码强度示例
 ## License
 Copyright &copy; Jörn Zaefferer<br>
 Licensed under the MIT license.
